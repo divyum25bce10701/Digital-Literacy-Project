@@ -45,17 +45,14 @@ I set up and optimized profiles on three key platforms that matter for students:
 ### part A- Coding Challenges (HackerRank)
 To keep my programming fundamentals sharp, I solved beginner-friendly Python challenges:
 - **Challenge 1:** Conditional statements — the classic "Weird vs Not Weird" problem
-- **Challenge 2:** Basic arithmetic operations — sum, difference, product
+- **Challenge 2:** Hello Word 
 - **Skills practiced:** Problem-solving, logic building, understanding constraints
 
 *These might be simple, but they remind me that strong foundations make strong developers.*
 
 ### part B- Digital Literacy Awareness Quiz
 I created a Google Form quiz to test basic cybersecurity awareness among peers. The quiz covers:
-- **What is phishing?** — (Spoiler: Not a relaxing weekend activity!)
-- **Password strength** — Can you spot the safest one?
-- **Two-factor authentication (2FA)** — What is it and why it matters
-- **Spotting scams** — That "You won a gift!" message? Delete it!
+
 
 - **google form**: https://docs.google.com/forms/d/e/1FAIpQLScyRcq2SEXfUra1L5PMmHo8S_yYBHbqr8AEs_bzuj9_SZ53ng/viewform?usp=sharing&ouid=113692956301899731281
 
