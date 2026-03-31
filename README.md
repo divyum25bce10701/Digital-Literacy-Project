@@ -85,16 +85,20 @@ Email is often the first impression you make professionally. I drafted two sampl
 ### part B- Social Media Do's and Don'ts for College Students
 A practical guide based on real scenarios:
 
-**Do's:**
+👍 Do’s
+. Think before you post—ensure your content is respectful and appropriate
+. Protect your privacy by adjusting account settings
+. Verify information before sharing to avoid spreading fake news
+. Use social media for learning, networking, and personal growth
+. Be kind and respectful in comments and messages
 
 
-
-**Don'ts:**
-- Never share personal phone number, address, or live location
-- Don't engage in online arguments or cyberbullying
-- Avoid sharing unverified news or information
-- Don't use offensive language in public posts
-- Be selective about accepting friend/follow requests
+❌ Don’ts
+. Don’t share personal information like phone number, address, or passwords
+. Don’t engage in cyberbullying or trolling
+. Don’t believe or spread unverified news or rumors
+. Don’t waste excessive time scrolling mindlessly
+. Don’t post offensive, harmful, or inappropriate content
 
 ###  Task 5- Cyber Crime Awareness 
 
