@@ -1,0 +1,18 @@
+Task 4  : Draft a Professional Email & Etiquette Guide
+
+Email 2 — Write an email from a student to an internship coordinator at a company, expressing interest in a summer internship opportunity.
+
+
+Subject: Interest in Summer Internship 
+
+
+Dear Sir/Ma’am,
+I am Divyum Saini, a 1st year student of computer science at VIT Bhopal University. I am very interested in the summer internship opportunity at your company.
+I have good knowledge in coding and data structuring and have worked on a few related projects. I have attached my resume for your reference.
+I would be grateful for any opportunity to intern with your team. Looking forward to your reply.
+
+Warm regards,
+Divyum Saini
+Reg No.:25BCS10701
+B.tech CSE (Core)
+VIT Bhopal University.
