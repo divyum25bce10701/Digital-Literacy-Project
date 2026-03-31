@@ -52,7 +52,11 @@ To keep my programming fundamentals sharp, I solved beginner-friendly Python cha
 
 ### part B- Digital Literacy Awareness Quiz
 I created a Google Form quiz to test basic cybersecurity awareness among peers. The quiz covers:
-
+1. What is Digital Literacy?
+2. Which of the following is a strong password?
+3. What should you do if you receive a suspicious email asking for personal information?
+4. Write one way to stay safe online
+5. Which of the following is an example of cyberbullying?
 
 - **google form**: https://docs.google.com/forms/d/e/1FAIpQLScyRcq2SEXfUra1L5PMmHo8S_yYBHbqr8AEs_bzuj9_SZ53ng/viewform?usp=sharing&ouid=113692956301899731281
 
